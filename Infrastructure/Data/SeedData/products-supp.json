@@ -1,0 +1,84 @@
+[
+  {
+    "Name": "Gold Standard Whey - Chocolate",
+    "Description": "Top-quality whey protein to support muscle growth and recovery.",
+    "Price": 49.99,
+    "PictureUrl": "/images/products/whey-chocolate.jpg",
+    "Type": "Protein",
+    "Brand": "Optimum Nutrition",
+    "QuantityInStock": 50
+  },
+  {
+    "Name": "ISO100 Whey - Vanilla",
+    "Description": "Fast-absorbing whey isolate for lean muscle building.",
+    "Price": 59.99,
+    "PictureUrl": "/images/products/whey-vanilla.jpg",
+    "Type": "Protein",
+    "Brand": "Dymatize",
+    "QuantityInStock": 40
+  },
+  {
+    "Name": "C4 Pre-Workout - Fruit Punch",
+    "Description": "Explosive energy and focus for high-intensity sessions.",
+    "Price": 34.99,
+    "PictureUrl": "/images/products/c4-preworkout.jpg",
+    "Type": "Pre-Workout",
+    "Brand": "C4",
+    "QuantityInStock": 60
+  },
+  {
+    "Name": "Animal Pak Multivitamin",
+    "Description": "Complete vitamin pack designed for active lifestyles.",
+    "Price": 29.99,
+    "PictureUrl": "/images/products/ap-multivitamin.jpg",
+    "Type": "Vitamins",
+    "Brand": "Animal Pak",
+    "QuantityInStock": 25
+  },
+  {
+    "Name": "Xtend BCAAs - Watermelon",
+    "Description": "Supports recovery, hydration, and muscle preservation.",
+    "Price": 32.99,
+    "PictureUrl": "/images/products/xtend-bcaa.jpg",
+    "Type": "Recovery",
+    "Brand": "Scivation",
+    "QuantityInStock": 30
+  },
+  {
+    "Name": "Gold Standard Whey - Strawberry",
+    "Description": "Classic whey protein in a refreshing strawberry flavor.",
+    "Price": 49.99,
+    "PictureUrl": "/images/products/whey-strawberry.jpg",
+    "Type": "Protein",
+    "Brand": "Optimum Nutrition",
+    "QuantityInStock": 45
+  },
+  {
+    "Name": "C4 Pre-Workout - Icy Blue Razz",
+    "Description": "Boosts endurance and pump for intense workouts.",
+    "Price": 34.99,
+    "PictureUrl": "/images/products/c4-bluerazz.jpg",
+    "Type": "Pre-Workout",
+    "Brand": "C4",
+    "QuantityInStock": 50
+  },
+  {
+    "Name": "ISO100 Whey - Chocolate",
+    "Description": "Ultra-pure whey isolate to fuel post-workout recovery.",
+    "Price": 59.99,
+    "PictureUrl": "/images/products/whey-chocolate-iso.jpg",
+    "Type": "Protein",
+    "Brand": "Dymatize",
+    "QuantityInStock": 35
+  },
+  {
+    "Name": "Animal Pak Immune Booster",
+    "Description": "Vitamin blend with added immune support ingredients.",
+    "Price": 27.99,
+    "PictureUrl": "/images/products/ap-immune.jpg",
+    "Type": "Vitamins",
+    "Brand": "Animal Pak",
+    "QuantityInStock": 20
+  }
+]
+
